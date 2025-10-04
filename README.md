@@ -10,7 +10,7 @@ This repository contains selected academic and research projects in **Communicat
 
 
 - **Automatic Modulation Classification (CNN+Transformer)**
-  Link: AMC-DeepLearning-README.md 
+  Link: [AMC-DeepLearning-README.md ](https://github.com/ManjuMtech/AMC-DeepLearning-README.md)
 
   
 - **OFDM System on SDR**  
