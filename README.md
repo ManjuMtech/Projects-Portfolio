@@ -4,7 +4,9 @@ This repository contains selected academic and research projects in **Communicat
 
 
 ## 📡 Communication Systems Projects
-- **Reactive Jamming Mitigation**  
+- **Reactive Jamming Mitigation**
+
+  https://github.com/ManjuMtech/Reactive-Jamming-Mitigation-framework 
 
 
 - **Automatic Modulation Classification (CNN+Transformer)**  
