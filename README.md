@@ -9,7 +9,8 @@ This repository contains selected academic and research projects in **Communicat
   Link: https://github.com/ManjuMtech/Reactive-Jamming-Mitigation-framework 
 
 
-- **Automatic Modulation Classification (CNN+Transformer)**
+- **Automatic Modulation Classification (Using PCTNet)**
+  
   Link: [AMC-DeepLearning-README.md ](https://github.com/ManjuMtech/AMC-DeepLearning-README.md)
 
   
