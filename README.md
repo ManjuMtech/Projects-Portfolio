@@ -4,6 +4,8 @@ This repository contains selected academic and research projects in **Communicat
 
 
 ## 📡 Communication Systems Projects
+- **Blind Modulation Clasiification**
+  Link:
 - **Reactive Jamming Mitigation**
 
   Link: https://github.com/ManjuMtech/Reactive-Jamming-Mitigation-framework 
@@ -17,7 +19,5 @@ This repository contains selected academic and research projects in **Communicat
 - **OFDM System on SDR**  
 
   
--**FM Receiver and Digital Communication System**
 
-- **Network Intrusion Detection (ML)**
   
